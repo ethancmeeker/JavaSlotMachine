@@ -11,13 +11,11 @@ I used the java swing library to get JOptionPanes to show up on my program. I us
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Web Site Name](https://www.codecademy.com/)
 * [Web Site Name](https://www.geeksforgeeks.org/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Would Love to get some images that work with JOptionPanes rather than just the words
 * I want to give a spinning animation for the slot machine just like it was a real slot machine 
 * I don't want this just to be a slot machine, I would love to get a whole casino running with Java

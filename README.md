@@ -11,8 +11,8 @@ I used the java swing library to get JOptionPanes to show up on my program. I us
 
 # Useful Websites
 
-* [Web Site Name](https://www.codecademy.com/)
-* [Web Site Name](https://www.geeksforgeeks.org/)
+* [Code Cademy](https://www.codecademy.com/)
+* [GeeksforGeeks](https://www.geeksforgeeks.org/)
 
 # Future Work
 
